@@ -79,7 +79,6 @@ public class CaesarCipher {
         }
 
         System.out.println("Thanks for using Caesar Cipher by Joo Si!");
-        System.out.println("Good luck with your Codédex Java journey! 🎯");
         scanner.close();
     }
 }
