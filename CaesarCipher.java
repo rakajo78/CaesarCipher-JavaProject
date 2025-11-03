@@ -1,6 +1,6 @@
 
 // File: CaesarCipher.java
-// Author: Joo Si
+// Author: Jonatan Sihombing
 // Date: November 2025
 // Project: Codédex Build - "Create a Caesar Cipher with Java"
 // Description:
@@ -42,7 +42,7 @@ public class CaesarCipher {
         System.out.println("===========================================");
         System.out.println("      🔐 Caesar Cipher Encryption Tool      ");
         System.out.println("===========================================");
-        System.out.println("Developed by: Joo Si");
+        System.out.println("Developed by: Jonatan Sihombing");
         System.out.println("Inspired by Julius Caesar’s cipher method.");
         System.out.println("-------------------------------------------\n");
 
